@@ -25,7 +25,7 @@ OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMA
 module led (input logic clk,
             input logic reset_n,
             output logic led0,
-	         output logic led1);
+	    output logic led1);
 
 logic [24:0] counter;
 
