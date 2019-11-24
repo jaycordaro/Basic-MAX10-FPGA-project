@@ -9,5 +9,4 @@ This "Hello World" type project blinks an LED every other second.  Tested using 
 
 Instructions: 
 
-clone project.  Either double click "led.qpf" or open qpf file from Quartus
-
+clone project.  Either double click "led.qpf" or open qpf file from Quartus.  
